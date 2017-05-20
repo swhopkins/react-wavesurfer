@@ -85,5 +85,8 @@
       "json"
     ],
     "testDirectoryName": "test"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.10"
   }
 }

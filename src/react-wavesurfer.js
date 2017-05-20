@@ -1,4 +1,5 @@
-import React, { Component, PropTypes } from 'react';
+import React, { Component } from 'react';
+import PropTypes from 'prop-types';
 import assign from 'deep-assign';
 
 const WaveSurfer = require('wavesurfer.js');
@@ -118,10 +119,10 @@ class Wavesurfer extends Component {
       if (this.props.volume != null) {
         this._wavesurfer.setVolume(this.props.volume);
       }
-      
+
       // set initial playing state
       if (this.props.playing) {
-        this.wavesurfer.play()
+        this.wavesurfer.play();
       }
 
       // set initial zoom

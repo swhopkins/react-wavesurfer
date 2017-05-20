@@ -1,7 +1,8 @@
-import React, { Component, PropTypes } from 'react';
+import React, { Component } from 'react';
+import PropTypes from 'prop-types';
 import assign from 'deep-assign';
 
-require('imports?define=>false,exports=>false!wavesurfer.js/dist/plugin/wavesurfer.timeline.js');
+require('imports?define=>false,exports=>false!wavesurfer.js/plugin/wavesurfer.timeline.js');
 
 class Timeline extends Component {
   constructor(props) {

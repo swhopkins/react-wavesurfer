@@ -1,5 +1,11 @@
 ## Change Log
 
+### upcoming (2017/05/20 01:39 +00:00)
+- [#34](https://github.com/mspae/react-wavesurfer/pull/34) Update react-wavesurfer.js (#34) (@TrevorHinesley)
+- [#32](https://github.com/mspae/react-wavesurfer/pull/32) Merge pull request #32 from JungJinuk/patch-1 (@JungJinuk)
+- [a81b31e](https://github.com/mspae/react-wavesurfer/commit/a81b31e257cca863c5d69d2340e3d5511420ff30) Update simple.js (@JungJinuk)
+- [cc3ec46](https://github.com/mspae/react-wavesurfer/commit/cc3ec46b3c0c902f1cea15e123648986ee00f79a) changelog and bump for v0.8.3 (@mspae)
+
 ### v0.8.3 (2017/02/05 19:36 +00:00)
 - [afce60f](https://github.com/mspae/react-wavesurfer/commit/afce60f70598f1733480dd7b52af048e9da1e96f) updated changelog and bumped version for 0.8.3 (@mspae)
 - [#30](https://github.com/mspae/react-wavesurfer/pull/30) Merge pull request #30 from omerts/master (@omerts)

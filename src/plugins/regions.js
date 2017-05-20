@@ -1,5 +1,6 @@
-import { Component, PropTypes } from 'react';
-require('imports?define=>false,exports=>false!wavesurfer.js/dist/plugin/wavesurfer.regions.js');
+import { Component } from 'react';
+import PropTypes from 'prop-types';
+require('imports?define=>false,exports=>false!wavesurfer.js/dist/plugin/wavesurfer.regions.min.js');
 
 const REGIONS_EVENTS = [
   'region-in',
